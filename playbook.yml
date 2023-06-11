@@ -1,0 +1,6 @@
+---
+- name: Test
+  hosts: all
+  roles:
+    - role: geerlingguy.postgresql
+      tags: postgresql-verylongverylongverylongverylongverylongverylongverylongverylongverylongverylongverylongverylongverylongverylongverylongverylongverylongverylong
